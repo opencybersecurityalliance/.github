@@ -7,6 +7,8 @@ The Open Cybersecurity Alliance (OCA) is an [OASIS Open Project](https://oasis-o
 
 For more information about OCA, [visit our project website](https://opencybersecurityalliance.org.).
 
+To learn more about how this Open Source project is governed, who our sponsors are, and who is serving on our Project Governing Board and Technical Steering Committee, check out the [OASIS Open Project repository](https://github.com/opencybersecurityalliance/oasis-open-project).
+
 
 ## OCA sub-projects
 OCA is an incubator for a growing number of Open Source projects. Check out our existing sub-projects:
