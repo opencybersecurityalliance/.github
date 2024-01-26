@@ -11,6 +11,7 @@ To learn more about how this Open Source project is governed, who our sponsors a
 ## OCA sub-projects
 OCA is an incubator for a growing number of Open Source projects. Check out our existing sub-projects:
 
+* [CACAO Roaster](https://github.com/opencybersecurityalliance/cacao-roaster)
 * [Cybersecurity Automation Sub-Project (CASP)](https://github.com/opencybersecurityalliance/casp)
 * [Indicators of Behaviour (IoB)](https://github.com/opencybersecurityalliance/oca-iob)
 * [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang)
