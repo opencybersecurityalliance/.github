@@ -1,7 +1,7 @@
 
 # Welcome to the Open Cybersecurity Alliance (OCA)
 
-The Open Cybersecurity Alliance (OCA) is an [OASIS Open Project](https://oasis-open-projects.org/), fostering an open cybersecurity ecosystem, where products from all vendors and software publishers can freely exchange information, insights, analytics, and orchestrated response, via commonly developed code and tooling, using mutually agreed upon technologies, data standards, and procedures.
+The Open Cybersecurity Alliance (OCA) is an [OASIS Open Project](https://www.oasis-open.org/open-projects/), fostering an open cybersecurity ecosystem, where products from all vendors and software publishers can freely exchange information, insights, analytics, and orchestrated response, via commonly developed code and tooling, using mutually agreed upon technologies, data standards, and procedures.
 
 For more information about OCA, [visit our project website](https://opencybersecurityalliance.org.).
 
