@@ -17,6 +17,7 @@ OCA is an incubator for a growing number of Open Source projects. Check out our 
 * [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang)
 * [Open XDR Architecture (OXA)](https://github.com/opencybersecurityalliance/oxa)
 * [STIX shifter](https://github.com/opencybersecurityalliance/stix-shifter)
+* [Interoperability Village](https://github.com/opencybersecurityalliance/interoperability-village)
 
 
 ## Get involved!
