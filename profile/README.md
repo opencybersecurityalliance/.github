@@ -14,6 +14,7 @@ OCA is an incubator for a growing number of Open Source projects. Check out our 
 * [CACAO Roaster](https://github.com/opencybersecurityalliance/cacao-roaster)
 * [Cybersecurity Automation Sub-Project (CASP)](https://github.com/opencybersecurityalliance/casp)
 * [Indicators of Behaviour (IoB)](https://github.com/opencybersecurityalliance/oca-iob)
+* [Interoperability Village](https://github.com/opencybersecurityalliance/interoperability-village)
 * [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang)
 * [Open XDR Architecture (OXA)](https://github.com/opencybersecurityalliance/oxa)
 * [STIX shifter](https://github.com/opencybersecurityalliance/stix-shifter)
